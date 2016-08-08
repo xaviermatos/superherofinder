@@ -1,0 +1,58 @@
+<style type = "text/css">
+.body {
+    font-family: Helvetica,Arial,sans-serif;
+    margin: 0 auto;
+   /* background-color: gray;*/
+    background-image: url("http://pre02.deviantart.net/8dc8/th/pre/f/2012/191/d/7/shield_desktop__inactive__by_oni3298-d56s0t1.png");
+     text-align: center
+}
+.searchbox {
+    background-color: gray;
+    margin: 0px;
+     text-align: center
+}
+.results {
+    background-color: rgba(19, 121, 209,0.9);
+    font-family: "Courier New", Courier, monospace;
+    margin: 0px;
+    color: white;
+     text-align: center
+
+}
+.power {
+    background-color: rgba(19, 121, 209,0.9);
+    font-family: "Courier New", Courier, monospace;
+    margin: 0px;
+    color: white;
+     text-align: center
+}
+.enemy {
+    background-color: rgba(19, 121, 209,0.9);
+    font-family: "Courier New", Courier, monospace;
+    margin: 0px;
+    color: white;
+     text-align: center
+}
+
+h2 {
+    color: white;
+     text-align: center
+     font-family: "Courier New", Courier, monospace;
+     font-size: 30px;
+
+}
+h6 {
+    color: white;
+     text-align: center;
+     font-family: "Courier New", Courier, monospace;
+     font-size: 18px;
+}
+
+body     {
+    background-image: url("http://pre02.deviantart.net/8dc8/th/pre/f/2012/191/d/7/shield_desktop__inactive__by_oni3298-d56s0t1.png");
+ text-align: center;
+ font-family: "Courier New", Courier, monospace;
+ background-size: 100%;
+}
+
+</style>
